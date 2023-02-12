@@ -54,12 +54,21 @@ export function Testimonials() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-            Loved by businesses worldwide.
+            GradHire connects businesses with top talent from universities,
+            providing access to a pool of highly motivated and skilled graduates
+            ready to start their careers.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Our software is so simple that people can’t help but fall in love
-            with it. Simplicity is easy when you just skip tons of
-            mission-critical features.
+            GradHire can benefit businesses by providing them access to a pool
+            of highly qualified and motivated recent graduates. Businesses can
+            save time and resources on traditional recruitment methods by using
+            GradHire to find the right fit for their organization. GradHire's
+            innovative matching algorithm ensures that businesses are only
+            presented with candidates who meet their specific requirements and
+            job requirements, making the hiring process faster, easier, and more
+            efficient. By partnering with GradHire, businesses can tap into the
+            latest talent, drive innovation, and build a diverse workforce to
+            support their long-term success.
           </p>
         </div>
         <ul
